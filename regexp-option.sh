@@ -1,3 +1,1 @@
-bash clean.sh
-bash init.sh
-gh submodule-add -f set-up-repos.repos -r promise -n
+gh submodule-add -f set-up-repos.repos -r 'set-up-[a-d]' promise
