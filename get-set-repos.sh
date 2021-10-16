@@ -1,0 +1,1 @@
+gh org-clone -n -s set ULL-MII-SYTWS-2122 | tail -n 8 | tee set-up-repos.repos
