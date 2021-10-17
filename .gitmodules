@@ -1,15 +1,3 @@
-[submodule "set-up-alu0100898293"]
-	path = set-up-alu0100898293
-	url = https://github.com/ULL-MII-SYTWS-2122/set-up-alu0100898293.git
-[submodule "set-up-crguezl"]
-	path = set-up-crguezl
-	url = https://github.com/ULL-MII-SYTWS-2122/set-up-crguezl.git
-[submodule "set-up-ddialar"]
-	path = set-up-ddialar
-	url = https://github.com/ULL-MII-SYTWS-2122/set-up-ddialar.git
-[submodule "set-up-alu0101102726"]
-	path = set-up-alu0101102726
-	url = https://github.com/ULL-MII-SYTWS-2122/set-up-alu0101102726.git
 [submodule "asyncmap-alu0101102726"]
 	path = asyncmap-alu0101102726
 	url = https://github.com/ULL-MII-SYTWS-2122/asyncmap-alu0101102726.git
