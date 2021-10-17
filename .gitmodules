@@ -16,3 +16,6 @@
 [submodule "asyncmap-alu0100898293"]
 	path = asyncmap-alu0100898293
 	url = https://github.com/ULL-MII-SYTWS-2122/asyncmap-alu0100898293.git
+[submodule "asyncmap-crguezl"]
+	path = asyncmap-crguezl
+	url = https://github.com/ULL-MII-SYTWS-2122/asyncmap-crguezl.git
