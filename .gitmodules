@@ -1,9 +1,6 @@
-[submodule "asyncmap-alu0101102726"]
-	path = asyncmap-alu0101102726
-	url = https://github.com/ULL-MII-SYTWS-2122/asyncmap-alu0101102726.git
-[submodule "asyncmap-alu0100898293"]
-	path = asyncmap-alu0100898293
-	url = https://github.com/ULL-MII-SYTWS-2122/asyncmap-alu0100898293.git
 [submodule "asyncmap-crguezl"]
 	path = asyncmap-crguezl
 	url = https://github.com/ULL-MII-SYTWS-2122/asyncmap-crguezl.git
+[submodule "asyncmap-Pmolmar"]
+	path = asyncmap-Pmolmar
+	url = https://github.com/ULL-MII-SYTWS-2122/asyncmap-Pmolmar.git
